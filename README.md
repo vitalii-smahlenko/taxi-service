@@ -6,9 +6,12 @@ This is a simple web application of a taxi service, in which you can try yoursel
 <br />
 **In this application you can:**<br />
 - Registering and authenticating as a driver;<br />
-- Create a car. Including manufacturer, country and model. If necessary, it can be removed;<br />
-- You can see already existing cars, car manufacturers and drivers;<br />
-- Look at all the cars that you have;<br />
+- Delete the driver;<br />
+- Create a car manufacturer, and also delete it if necessary;<br />
+- Create car/delete car model;<br />
+- Add a driver to one or more cars;<br />
+- Display all manufacturers/cars/drivers;<br />
+- Display all cars belonging to the driver you are logged in for;<br />
 
 **Instructions for launching the project:**
 ----
@@ -26,6 +29,12 @@ This is a simple web application of a taxi service, in which you can try yoursel
 - **Java 11.0.12 2021-07-20 LTS**<br />
 - **Apache Maven 3.8.1**<br />
 - **Apache Tomcat 9.0.50**
+- **Apache Log4j 2.17.2**
+- **Java Servlet API**
+- **MySQL**
+- **HTML**
+- **SOLID Principles Java**
+- **Dependency injection**
 
 **Heroku link:**
 ----
