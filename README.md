@@ -19,7 +19,7 @@ This is a simple web application of a taxi service, in which you can try yoursel
   I used https://db4free.net/ alternatively you can use https://remotemysql.com/dashboard.php <br />
   or any other you like.
 - Connect to the database in the ***taxi.util.ConnectionUtil*** class
-- Install Apache Tomcat, I used version 9.0.50. <br />
+- Install Apache Tomcat, I used version 9.0.50 <br />
   Apache Tomcat 9.0.50 you can download here https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/
 - In order to configure logging into the project. You need to specify the path to the directory <br />
   where you want to store logs. 7 lines in the ***src/main/resources/log4j2.xml*** 
@@ -31,11 +31,11 @@ This is a simple web application of a taxi service, in which you can try yoursel
 - **Apache Tomcat 9.0.50**
 - **Apache Log4j 2.17.2**
 - **Java Servlet API**
-- **MySQL**
+- **MySQL 8.0.29**
 - **HTML**
 - **SOLID Principles Java**
 - **Dependency injection**
 
 **Heroku link:**
 ----
-https://taxi-app-2022.herokuapp.com/
+***https://taxi-app-2022.herokuapp.com/***
